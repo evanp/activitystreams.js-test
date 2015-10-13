@@ -1,0 +1,8 @@
+{
+  "name": "activitystreams.js-test",
+  "version": "0.1.0",
+  "dependencies": {
+    "activitystrea.ms": "^0.8.0",
+    "yargs": "^3.27.0"
+  }
+}
